@@ -1,0 +1,16 @@
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mci.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mci
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mci1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mci
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mci2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mci
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mci3.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mci
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mci-i.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mci
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mci-i2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mci
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@shatel1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-shatel
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@shatel2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-shatel
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mokhaberat1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mokhaberat
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@mokhaberat2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-mokhaberat
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@irancell1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-irancell
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@irancell2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-irancell
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@irancell3.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-irancell
+vless://d7bc91ba-14df-4ba4-cd00-58467e2e7d4e@irancell-i.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test7.khasteh-shodam.cloud#Ramin-irancellvless://0d48e2d8-ac38-4d14-a2fb-a38222f65b73@donater1.khasteh-shodam.cloud:11637?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=gmail.com&sid=fb#Real1-Test
+vmess://eyJhZGQiOiJkb25hdGVyMS5raGFzdGVoLXNob2RhbS5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXhvLmlyIiwiaWQiOiI0NWUxYWI0Yy05NmVjLTQyYTctOGE5Ny1mMWRhMTcwMWRlOGMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDEyMSIsInBzIjoiVENQLVRlc3QyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://664b7d24-3c9a-4255-ccc5-f0966225fbd5@donater1.khasteh-shodam.cloud:41456?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Vlees+TCP-Test3
